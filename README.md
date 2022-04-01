@@ -1,1 +1,1 @@
-# Stats-Programming
+# Project 1
